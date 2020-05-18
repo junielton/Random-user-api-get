@@ -1,0 +1,9 @@
+.loading {
+  align-items: center;
+  margin: 0 auto;
+  max-width: 1200px;
+  transition: all 0.5s;
+}
+.loading h2 {
+  text-align: center;
+}
